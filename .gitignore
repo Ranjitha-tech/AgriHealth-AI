@@ -1,0 +1,34 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/PlantVillage/
+
+models/*.keras
+models/*.h5
+
+.ipynb_checkpoints/
+
+.streamlit/
+# Python environment and cache
+.venv/
+*.pyo
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases and user data
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+data/

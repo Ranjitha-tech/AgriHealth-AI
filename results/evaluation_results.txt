@@ -1,0 +1,4 @@
+MODEL EVALUATION RESULTS
+========================
+Validation Loss     : 0.2689
+Validation Accuracy : 91.23%
